@@ -1,2 +1,2 @@
-# Show-do-Milh-o
+# Show do Milhão
 projeto para a semana da qualidade 
